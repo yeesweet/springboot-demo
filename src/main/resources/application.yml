@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot-demo
+  devtools:
+    restart:
+      enabled: false
+
+server:
+  port: 9999
